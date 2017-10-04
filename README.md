@@ -48,12 +48,12 @@ Open terminal install latest Nvidia Driver
 		sudo apt-get install nvidia-375
 		reboot
 
-# install CUDA 8.0
+# install CUDA 8.0 (optional)
 
 		sudo apt update
 		sudo apt-get install cuda-8-0
 
-# Install msiklm to control keyboard lights
+# Install msiklm to control keyboard lights (optional)
 
 		git clone https://github.com/Gibtnix/MSIKLM.git
 		cd MSIKLM/
