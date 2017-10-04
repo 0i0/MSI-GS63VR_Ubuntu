@@ -7,11 +7,23 @@ Download Ubuntu 16.04 LTS image (http://releases.ubuntu.com/16.04.3/ubuntu-16.04
 Make Bootable USB (https://tutorials.ubuntu.com/tutorial/tutorial-create-a-usb-stick-on-macos#0)
 
 Go into BIOS using del key
+
 Disable secure boot
 
+![Secureboot menu](https://i.imgur.com/6FpkOUu.jpg)
+
+![Disable!](https://i.imgur.com/3UIbmSv.jpg)
+
 Install Ubuntu 16. from USB
+
 Go into BIOS using del key
+
 In the UEFI boot order select ubuntu so that GRUB will be loaded first
+
+
+![UEFI menu](https://i.imgur.com/xFfJTmK.jpg)
+
+![Put ubuntu first](https://i.imgur.com/kePjbXu.jpg)
 
 # Fix login loop (only background and mouse cursor after login)
 
