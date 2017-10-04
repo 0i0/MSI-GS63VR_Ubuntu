@@ -1,4 +1,4 @@
-Dual boot ubuntu 16.04 LTS with Windows 10 on MSI GS63VR 7RF 
+# Dual boot ubuntu 16.04 LTS with Windows 10 on MSI GS63VR 7RF 
 
 # Install Ubuntu from USB
 
@@ -20,6 +20,7 @@ Boot using "Advance Setting for Ubuntu" (from the GRUB menu)
 ![GRUB](https://i.imgur.com/CbvJyyI.jpg)
 
 Disable graphic card using "failsafeX"
+
 Resume normal boot usinge "resume"
 
 ![Resume](https://i.imgur.com/K3qpfqG.png)
@@ -45,3 +46,8 @@ Open terminal install latest Nvidia Driver
 		git clone https://github.com/Gibtnix/MSIKLM.git
 		cd MSIKLM/
 		sudo msiklm 0x9500ff
+
+If you enjoyed please consider tipping me @
+
+​Bitcoin 142jKB3e9uC8sSmssKtp5NtWScarZdYpuH
+Ethereum ​0x8423b2cA48Bd9a734B4FE27A4E78f64e12131B79​
