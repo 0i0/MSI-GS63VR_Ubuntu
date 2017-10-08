@@ -14,7 +14,7 @@ Disable secure boot
 
 ![Disable!](https://i.imgur.com/3UIbmSv.jpg)
 
-Install Ubuntu 16. from USB
+Install Ubuntu 16.04 from USB
 
 Go into BIOS using del key
 
